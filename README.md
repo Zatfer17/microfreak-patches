@@ -16,6 +16,9 @@ Some learnings from the experiment:
         - `01-Freaky sounds-A1.mbp`
         - `01-Freaky sounds-A2.mbp`
         - ...
+    - zip the `Freaky sounds` folder
+    - change the `.zip` extension to `.mfprojz`
+- I couldn't get the zips directly from Python to work
 - the Arturia MIDI Control Center usually freaks (xD) out if you try to import those banks while the Microfreak is plugged in, so make sure to do those imports with the Microfreak turned off
 
 ## TLDR
