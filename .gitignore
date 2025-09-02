@@ -218,3 +218,4 @@ __marimo__/
 .DS_Store
 
 patches/clean/*
+patches/temp/*
