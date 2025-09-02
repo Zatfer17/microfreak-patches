@@ -219,4 +219,4 @@ __marimo__/
 
 patches/clean/*
 patches/temp/*
-patches/generated/*
+patches/generated/*/
